@@ -7,7 +7,9 @@ def subtract(x,y):
 #Multiply implementation    
 def multiply(x,y):
     return (x*y)
-#Divide implementation
+#Divide implementation         
 def divide(x,y):
-    return (x/y)
+    if (y==0):
+        print Divide_by_Zero_Error
+    return x/y
     
