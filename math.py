@@ -1,13 +1,13 @@
-#add implementation
+#Add implementation
 def add(x,y):
-    return x+y                # for Bug123
-#subtract implementation  
+    return x+y                
+#Subtract implementation  
 def subtract(x,y):
     pass
-#multiply implementation    
+#Multiply implementation    
 def multiply(x,y):
     pass
-#divide implementation
+#Divide implementation
 def divide(x,y):
-    pass
+    return x/y
     
